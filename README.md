@@ -1,2 +1,2 @@
-# Insira
-Automated data visualization with description software
+# insira
+automated visualisation
